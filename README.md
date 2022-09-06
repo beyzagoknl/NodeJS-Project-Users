@@ -6,7 +6,7 @@ In this project, I used NodeJS and Express to create a user data. This is my fre
 
 # 2. Structure Tree
 
-![NodeJS Project-Users](/images/appTree.jpg)
+![NodeJS Project-Users](/images/appTree.png)
 
 ## 3. Application
 
